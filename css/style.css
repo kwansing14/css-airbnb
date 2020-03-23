@@ -1,3 +1,35 @@
-h1 {
-  color: salmon;
+h1,h2 {
+  color: #262626;
+  text-align: center;
 }
+h1{
+  margin: 30px 0 0 0;
+}
+h2 {
+  font-size: 12px;
+  margin: 5px 0 30px 0;
+}
+
+body{
+  background: #EEEFEC;
+}
+img {
+  height: 120px;
+  width: 180px;
+  display: inline-block;
+  margin: 0 3px;
+}
+div {
+  display: block;
+  justify-content: center;
+  display: flex;
+}
+
+button{
+  border: 1px solid black;
+  background: white;
+  margin: 30px 0 0 0;
+  padding: 5px 70px;
+  font-size: 11px;
+}
+
